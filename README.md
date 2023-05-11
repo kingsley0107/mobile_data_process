@@ -38,3 +38,4 @@
 
 ## 参考文献:
 - 曹劲舟,涂伟,李清泉等.基于大规模手机定位数据的群体活动时空特征分析[J].地球信息科学学报,2017,19(04):467-474.
+- Qing Yu, & Jian Yuan. (2022). TransBigData: A Python package for transportation spatio-temporal big data processing, analysis and visualization (v0.3.7). Zenodo. https://doi.org/10.5281/zenodo.6236507
